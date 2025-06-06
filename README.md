@@ -53,7 +53,7 @@ This classic game allows two players to play on the same device by taking turns 
 ## Author
 
 - Ranjitha
-- GitHub: [github.com/yourusername](https://github.com/Ranjitha110)
+- GitHub: [github.com/Ranjitha110](https://github.com/Ranjitha110)
 
 ---
 
